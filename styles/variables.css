@@ -3,7 +3,6 @@
   и их переопределение под различные устройства
 */
 :root {
-  --font-family: 'IBM Plex Mono', sans-serif;
   --min-gap: 10px;
   --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 
